@@ -1,0 +1,2 @@
+#This is the Dome Search Engine Beta. To use it, open a Python IDE and run it.
+#You will have to install PyQt5 and PyQtWebEngine. To do that, go to the terminal and do "pip install PyQt5" and "pip install PyQtWenEngine.
